@@ -1,2 +1,10 @@
 # Youtube-Scrape-Pipeline
-Work during Spring25 in SocWeb Lab, with PhD candidate Jiawei Zhou's project on Risk Communication of Health AI on social media
+## Description
+Work during Spring25 in SocWeb Lab, with PhD candidate Jiawei Zhou's project on Risk Communication.
+
+## Main Use
+Collect Youtube video data & metadata with customized keywords as filters.
+
+## Technology
+Most written in **jupyter notebook**, some are **.py** file for the convenience of being run on server.
+
